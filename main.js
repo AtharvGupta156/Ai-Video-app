@@ -2,7 +2,7 @@ status="";
 objects = [];
 
 function preload() {
-    video = createVideo('demo.mp4');
+    video = createVideo('video.mp4');
 }
 
 function setup() {
